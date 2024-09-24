@@ -1,0 +1,14 @@
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\dicegame.AssemblyInfoInputs.cache
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\dicegame.AssemblyInfo.cs
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\dicegame.csproj.CoreCompileInputs.cache
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\bin\Debug\net8.0\dicegame.exe
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\bin\Debug\net8.0\dicegame.deps.json
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\bin\Debug\net8.0\dicegame.runtimeconfig.json
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\bin\Debug\net8.0\dicegame.dll
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\bin\Debug\net8.0\dicegame.pdb
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\dicegame.dll
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\refint\dicegame.dll
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\dicegame.pdb
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\dicegame.genruntimeconfig.cache
+C:\Users\felix.rosenkron\source\repos\dicegame\dicegame\obj\Debug\net8.0\ref\dicegame.dll
